@@ -1,4 +1,7 @@
-texto = "hola mundo"
-num = 8
+texto = "Juan Ruiz"
+num = 88
 decimal = 1.70
-VoF = True
+pregunta = True
+
+print('hola !',texto , 'tu numero de estudiantes es: ' + str (num),'tu estatura es: ' + str(decimal), '¿Eres de colombia? ' + str(pregunta) , sep= "\n")
+
