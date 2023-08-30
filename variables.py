@@ -48,3 +48,8 @@ FLT_RADIX - _DBL_RADIX - _LDBL_RADIX	Base de representación de exponente.	2
 FLT_ROUNDS - _DBL_ROUNDS - _LDBL_ROUNDS	   Modo de redondeo para la adición de punto flotante.	
 
 """
+
+n1 = int(input ("ingresa tu primer numero a sumar: "))
+n2 = int(input ("ingresa tu segundo numero a sumar: "))
+
+print (n1+n2)
